@@ -1,0 +1,59 @@
+{
+  "consciousness_of_projection": {
+    "words": [
+      "lijkt",
+      "lijken",
+      "waarschijnlijk",
+      "misschien",
+      "duidelijk",
+      "mogelijk",
+      "zeker",
+      "vermoedelijk",
+      "eigenlijk"
+    ],
+    "bigrams": []
+  },
+  "self_reference_words": {
+    "words": [
+      "ik",
+      "me",
+      "mij"
+    ],
+    "bigrams": []
+  },
+  "negations": {
+    "words": [
+      "geen",
+      "niet",
+      "niemand",
+      "nergens",
+      "noch",
+      "nooit",
+      "niets"
+    ],
+    "bigrams": []
+  },
+  "pseudo_quantifiers": {
+    "words": [
+      "veel",
+      "vele",
+      "weinig",
+      "enkele"
+    ],
+    "bigrams": [
+      "een paar",
+      "een hoop",
+      "grote hoeveelheid",
+      "kleine hoeveelheid"
+    ]
+  },
+  "positive_allness": {
+    "words": [
+      "alle",
+      "elke",
+      "iedere",
+      "iedereen"
+    ],
+    "bigrams": []
+  }
+}

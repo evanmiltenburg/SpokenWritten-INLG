@@ -1,0 +1,523 @@
+1	Twee	twee	[twee]	TW(hoofd,prenom,stan)	0.661191	O	B-NP	2	det
+2	honkballers	honkballer	[honkbal][er][s]	N(soort,mv,basis)	0.999466	O	I-NP	3	su
+3	staan	staan	[sta]	WW(pv,tgw,mv)	1.000000	O	B-VP	0	ROOT
+4	bij	bij	[bij]	VZ(init)	0.858769	O	B-PP	10	mod
+5	het	het	[het]	LID(bep,stan,evon)	0.702075	O	B-NP	6	det
+6	slaghonk	slaghonk	[slaghonk]	N(soort,ev,basis,onz,stan)	0.888104	O	I-NP	4	obj1
+7	,	,	[,]	LET()	1.000000	O	O	6	punct
+8	de	de	[de]	LID(bep,stan,rest)	0.999454	O	B-NP	9	det
+9	scheidsrechter	scheidsrechter	[scheidsrecht][er]	N(soort,ev,basis,zijd,stan)	0.998984	O	I-NP	10	su
+10	neemt	nemen	[neem][t]	WW(pv,tgw,met-t)	0.999485	O	B-VP	0	ROOT
+11	een	een	[een]	LID(onbep,stan,agr)	0.999560	O	B-NP	12	det
+12	beslissing	beslissing	[beslis][ing]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	10	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	groep	groep	[groep]	N(soort,ev,basis,zijd,stan)	0.997481	O	I-NP	0	ROOT
+3	toeristen	toerist	[toer][ist][en]	N(soort,mv,basis)	0.999262	O	I-NP	2	mod
+4	bij	bij	[bij]	VZ(init)	0.997868	O	B-PP	3	mod
+5	een	een	[een]	LID(onbep,stan,agr)	0.995147	O	B-NP	7	det
+6	Chinese	chinees	[chinees][e]	ADJ(prenom,basis,met-e,stan)	0.981205	B-LOC	I-NP	7	mod
+7	tempel	tempel	[tempel]	N(soort,ev,basis,zijd,stan)	0.999633	O	I-NP	4	obj1
+8	,	,	[,]	LET()	1.000000	O	O	7	punct
+9	in	in	[in]	VZ(init)	0.999350	O	B-PP	7	mod
+10	de	de	[de]	LID(bep,stan,rest)	0.999964	O	B-NP	11	det
+11	regen	regen	[regen]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	9	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	3	det
+2	rode	rood	[rood][e]	ADJ(prenom,basis,met-e,stan)	0.990169	O	I-NP	3	mod
+3	tourbus	tourbus	[tour][bus]	N(soort,ev,basis,zijd,stan)	0.926512	O	I-NP	0	ROOT
+4	met	met	[met]	VZ(init)	0.999480	O	B-PP	3	mod
+5	open	open	[open]	ADJ(prenom,basis,zonder)	0.987342	O	B-NP	6	mod
+6	dak	dak	[dak]	N(soort,ev,basis,onz,stan)	0.998445	O	I-NP	4	obj1
+7	op	op	[op]	VZ(init)	0.992188	O	B-PP	6	mod
+8	een	een	[een]	LID(onbep,stan,agr)	0.998058	O	B-NP	9	det
+9	kruispunt	kruispunt	[kruis][punt]	N(soort,ev,basis,onz,stan)	0.996804	O	I-NP	7	obj1
+
+1	Vier	vier	[vier]	TW(hoofd,prenom,stan)	0.591361	O	B-NP	4	det
+2	jong	jong	[jong]	ADJ(vrij,basis,zonder)	0.800000	O	B-ADJP	3	mod
+3	volwassen	volwassen	[volwassen]	ADJ(prenom,basis,zonder)	0.935065	O	B-NP	4	mod
+4	mannen	man	[man][en]	N(soort,mv,basis)	0.999597	O	I-NP	7	cnj
+5	die	die	[die]	VNW(aanw,det,stan,prenom,zonder,rest)	0.909091	O	B-NP	6	det
+6	discussieren	discussieren	[discussieren]	N(soort,mv,basis)	1.000000	O	I-NP	7	cnj
+7	en	en	[en]	VG(neven)	0.999194	O	B-CONJP	0	ROOT
+8	eten	eten	[eet][en]	WW(inf,vrij,zonder)	0.576486	O	B-NP	7	cnj
+
+1	Rush	Rush	[Rush]	SPEC(vreemd)	1.000000	O	B-NP	0	ROOT
+2	hour	hour	[hour]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+3	op	op	[op]	VZ(init)	0.996560	O	B-PP	2	mod
+4	een	een	[een]	LID(onbep,stan,agr)	0.995147	O	B-NP	6	det
+5	druk	druk	[druk]	ADJ(prenom,basis,zonder)	0.965517	O	I-NP	6	mod
+6	kruispunt	kruispunt	[kruis][punt]	N(soort,ev,basis,onz,stan)	0.997078	O	I-NP	3	obj1
+7	in	in	[in]	VZ(init)	0.931125	O	B-PP	6	mod
+8	Azie	azie	[azie]	N(soort,ev,basis,zijd,stan)	0.960961	B-LOC	B-NP	7	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	groepje	groep	[groep][je]	N(soort,ev,dim,onz,stan)	0.993902	O	I-NP	0	ROOT
+3	vrienden	vriend	[vriend][en]	N(soort,mv,basis)	0.993603	O	I-NP	2	mod
+4	dat	dat	[dat]	VG(onder)	0.625000	O	B-SBAR	3	vc
+5	met	met	[met]	VZ(init)	0.999480	O	B-PP	7	mod
+6	elkaar	elkaar	[elkaar]	VNW(recip,pron,obl,vol,persoon,mv)	0.999786	O	B-NP	5	obj1
+7	chillt	chillt	[chill][t]	WW(vd,vrij,zonder)	0.942115	O	B-VP	4	body
+8	bij	bij	[bij]	VZ(init)	0.997868	O	B-PP	7	mod
+9	een	een	[een]	LID(onbep,stan,agr)	0.999573	O	B-NP	10	det
+10	bankje	bank	[bank][je]	N(soort,ev,dim,onz,stan)	0.999323	O	I-NP	8	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	6	det
+2	voetgangers	voetganger	[voet][ga][er][s]	N(soort,mv,basis)	0.998020	O	I-NP	6	None
+3	oversteekplaats	oversteekplaats	[over][steek][plaats]	N(soort,mv,basis)	0.865574	O	I-NP	2	mod
+4	in	in	[in]	VZ(init)	0.936170	O	B-PP	3	mod
+5	slecht	slecht	[slecht]	ADJ(prenom,basis,zonder)	0.945946	O	B-NP	6	mod
+6	weer	weer	[weer]	N(soort,ev,basis,onz,stan)	1.000000	O	I-NP	0	ROOT
+7	op	op	[op]	VZ(init)	0.993846	O	B-PP	6	mod
+8	een	een	[een]	LID(onbep,stan,agr)	0.995147	O	B-NP	9	det
+9	eenrichtingsweg	eenrichtingsweg	[een][richt][ing][s][weg]	N(soort,ev,basis,zijd,stan)	1.000000	O	I-NP	7	obj1
+
+1	Twee	twee	[twee]	TW(hoofd,prenom,stan)	0.661191	O	B-NP	3	det
+2	opgemaakte	opmaken	[op][ge][maak][t][e]	WW(vd,prenom,met-e)	0.983051	O	I-NP	3	mod
+3	bedden	bed	[bed][en]	N(soort,mv,basis)	0.998313	O	I-NP	0	ROOT
+4	in	in	[in]	VZ(init)	0.998790	O	B-PP	3	mod
+5	een	een	[een]	LID(onbep,stan,agr)	0.997381	O	B-NP	6	det
+6	hotelkamer	hotelkamer	[hotel][kamer]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	4	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	man	man	[man]	N(soort,ev,basis,zijd,stan)	0.995858	O	I-NP	0	ROOT
+3	in	in	[in]	VZ(init)	0.999571	O	B-PP	2	mod
+4	de	de	[de]	LID(bep,stan,rest)	0.999964	O	B-NP	5	det
+5	keuken	keuken	[keuken]	N(soort,ev,basis,zijd,stan)	0.999295	O	I-NP	3	obj1
+6	met	met	[met]	VZ(init)	0.999480	O	B-PP	5	mod
+7	zijn	zijn	[zijn]	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	0.998898	O	B-NP	8	det
+8	hond	hond	[hond]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	6	obj1
+
+1	Twee	twee	[twee]	TW(hoofd,prenom,stan)	0.661191	O	B-NP	2	det
+2	vrouwen	vrouw	[vrouw][en]	N(soort,mv,basis)	0.995554	O	I-NP	6	obj2
+3	aan	aan	[aan]	VZ(init)	0.958333	O	B-PP	2	mod
+4	tafel	tafel	[tafel]	N(soort,ev,basis,zijd,stan)	0.996633	O	B-NP	3	obj1
+5	die	die	[die]	VNW(aanw,pron,stan,vol,3,getal)	0.714286	O	B-NP	6	obj1
+6	eten	eten	[eet][en]	WW(inf,vrij,zonder)	0.576486	O	B-VP	0	ROOT
+7	delen	deel	[deel][en]	N(soort,mv,basis)	0.833333	O	B-NP	6	vc
+
+1	Kinderen	kind	[kind][en]	N(soort,mv,basis)	0.996849	O	B-NP	0	ROOT
+2	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.916667	O	B-SBAR	1	mod
+3	pizza	pizza	[pizza]	N(soort,ev,basis,zijd,stan)	0.997691	O	B-NP	4	obj1
+4	eten	eten	[eet][en]	WW(inf,vrij,zonder)	0.610169	O	B-VP	2	body
+5	in	in	[in]	VZ(init)	0.998790	O	B-PP	4	mod
+6	een	een	[een]	LID(onbep,stan,agr)	0.997381	O	B-NP	7	det
+7	vergaderzaal	vergaderzaal	[vergader][zaal]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	5	obj1
+
+1	Overstekende	oversteken	[over][steek][end][e]	WW(od,prenom,met-e)	0.713576	O	B-NP	2	mod
+2	voetgangers	voetganger	[voet][ga][er][s]	N(soort,mv,basis)	0.995266	O	I-NP	0	ROOT
+3	op	op	[op]	VZ(init)	0.996441	O	B-PP	2	mod
+4	een	een	[een]	LID(onbep,stan,agr)	0.999789	O	B-NP	6	det
+5	groot	groot	[groot]	ADJ(prenom,basis,zonder)	0.998987	O	I-NP	6	mod
+6	kruispunt	kruispunt	[kruis][punt]	N(soort,ev,basis,onz,stan)	0.998155	O	I-NP	3	obj1
+7	naast	naast	[naast]	VZ(init)	0.917140	O	B-PP	6	mod
+8	een	een	[een]	LID(onbep,stan,agr)	0.999038	O	B-NP	9	det
+9	benzinepomp	benzinepomp	[benzine][pomp]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	7	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	klas	klas	[klas]	N(soort,ev,basis,zijd,stan)	0.987421	O	I-NP	5	obj1
+3	basisschoolkinderen	basisschoolkind	[basis][school][kind][en]	N(soort,mv,basis)	0.999597	O	I-NP	2	mod
+4	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.545455	O	B-SBAR	2	mod
+5	werken	werken	[werk][en]	WW(pv,tgw,mv)	1.000000	O	B-VP	0	ROOT
+6	met	met	[met]	VZ(init)	0.999480	O	B-PP	5	pc
+7	laptops	laptop	[laptop][s]	N(soort,mv,basis)	0.783883	O	B-NP	6	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	verjaardag	verjaardag	[ver][jaar][dag]	N(soort,ev,basis,zijd,stan)	0.998636	O	I-NP	0	ROOT
+3	in	in	[in]	VZ(init)	0.999464	O	B-PP	2	mod
+4	de	de	[de]	LID(bep,stan,rest)	0.999805	O	B-NP	6	det
+5	gemeenschappelijke	gemeenschappelijk	[gemeen][schap][elijk][e]	ADJ(prenom,basis,met-e,stan)	0.999763	O	I-NP	6	mod
+6	ruimte	ruimte	[ruim][te]	N(soort,ev,basis,zijd,stan)	0.999841	O	I-NP	3	obj1
+7	van	van	[van]	VZ(init)	0.999849	O	B-PP	6	mod
+8	het	het	[het]	LID(bep,stan,evon)	0.999914	O	B-NP	9	det
+9	bejaardentehuis	bejaardentehuis	[bejaardee][n][te][huis]	N(soort,ev,basis,onz,stan)	0.996804	O	I-NP	7	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	groep	groep	[groep]	N(soort,ev,basis,zijd,stan)	0.997481	O	I-NP	5	obj1
+3	snowboarders	snowboarder	[snow][boar][der][s]	N(soort,mv,basis)	1.000000	O	I-NP	2	mod
+4	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.842105	O	B-SBAR	2	mod
+5	verzamelen	verzamelen	[ver][zamel][en]	WW(inf,vrij,zonder)	0.835125	O	B-VP	0	ROOT
+6	voor	voor	[voor]	VZ(init)	0.998512	O	B-PP	5	pc
+7	de	de	[de]	LID(bep,stan,rest)	0.999964	O	B-NP	8	det
+8	skilift	skilift	[skie][lift]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	6	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	legoset	legoset	[legoset]	N(soort,ev,basis,zijd,stan)	0.966103	O	I-NP	0	ROOT
+3	met	met	[met]	VZ(init)	0.993865	O	B-PP	2	mod
+4	'	'	[']	LET()	1.000000	O	O	3	punct
+5	Great	Great	[Great]	SPEC(vreemd)	1.000000	B-EVE	B-NP	3	obj1
+6	Britain	Britain	[Britain]	SPEC(vreemd)	1.000000	I-EVE	I-NP	0	ROOT
+7	'	'	[']	LET()	1.000000	O	O	6	punct
+8	als	als	[als]	VZ(init)	0.886364	O	B-PP	6	mod
+9	thema	thema	[thema]	N(soort,ev,basis,onz,stan)	0.996804	O	B-NP	8	body
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	3	det
+2	ouderwetse	ouderwets	[ouderwets][e]	ADJ(prenom,basis,met-e,stan)	0.998739	O	I-NP	3	mod
+3	bus	bus	[bus]	N(soort,ev,basis,zijd,stan)	0.998945	O	I-NP	0	ROOT
+4	in	in	[in]	VZ(init)	0.996350	O	B-PP	3	mod
+5	twee	twee	[twee]	TW(hoofd,prenom,stan)	0.746402	O	B-NP	6	det
+6	kleuren	kleur	[kleur][en]	N(soort,mv,basis)	0.752852	O	I-NP	4	obj1
+7	,	,	[,]	LET()	1.000000	O	O	6	punct
+8	beige	beige	[beige]	ADJ(vrij,basis,zonder)	0.619048	O	B-NP	9	cnj
+9	en	en	[en]	VG(neven)	0.999194	O	I-NP	6	app
+10	rood	rood	[rood]	ADJ(vrij,basis,zonder)	0.600000	O	B-NP	9	cnj
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	onderzoekslab	onderzoekslab	[onderzoek][slab]	N(soort,ev,basis,zijd,stan)	0.983043	O	I-NP	0	ROOT
+3	met	met	[met]	VZ(init)	0.999480	O	B-PP	2	mod
+4	bed	bed	[bed]	N(soort,ev,basis,onz,stan)	0.998214	O	B-NP	5	cnj
+5	en	en	[en]	VG(neven)	0.999194	O	B-CONJP	3	obj1
+6	een	een	[een]	LID(onbep,stan,agr)	0.995147	O	B-NP	7	det
+7	game-opstelling	game-opstelling	[game][op][stel][ing]	N(soort,ev,basis,zijd,stan)	1.000000	O	I-NP	5	cnj
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	Briste	briste	[bre][ist][e]	N(soort,ev,basis,zijd,stan)	0.695662	B-LOC	I-NP	10	su
+3	dubbeldekkerbus	dubbeldekkerbus	[dubbeldekkerbus]	SPEC(vreemd)	1.000000	O	I-NP	2	app
+4	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.802167	O	B-SBAR	3	mod
+5	in	in	[in]	VZ(init)	0.999350	O	B-PP	10	mod
+6	de	de	[de]	LID(bep,stan,rest)	0.999964	O	B-NP	7	det
+7	winter	winter	[winter]	N(soort,ev,basis,zijd,stan)	0.998827	O	I-NP	5	obj1
+8	naar	naar	[naar]	VZ(init)	0.999197	O	B-PP	7	mod
+9	Brighton	Brighton	[Brighton]	SPEC(deeleigen)	1.000000	B-LOC	B-NP	8	obj1
+10	rijdt	rijden	[rijd][t]	WW(pv,tgw,met-t)	0.998984	O	B-VP	0	ROOT
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	4	det
+2	gewone	gewoon	[gewoon][e]	ADJ(prenom,basis,met-e,stan)	0.990169	O	I-NP	4	mod
+3	Londonse	londons	[londons][e]	ADJ(prenom,basis,met-e,stan)	1.000000	B-LOC	I-NP	4	mod
+4	stadsbus	stadsbus	[stad][s][bus]	N(soort,ev,basis,zijd,stan)	0.999455	O	I-NP	0	ROOT
+5	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.866616	O	B-SBAR	4	mod
+6	een	een	[een]	LID(onbep,stan,agr)	0.999528	O	B-NP	7	det
+7	kruispunt	kruispunt	[kruis][punt]	N(soort,ev,basis,onz,stan)	0.995902	O	I-NP	8	obj1
+8	oversteekt	oversteken	[over][steek][t]	WW(pv,tgw,met-t)	0.998984	O	B-VP	5	body
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	keuken	keuken	[keuken]	N(soort,ev,basis,zijd,stan)	0.998636	O	I-NP	0	ROOT
+3	in	in	[in]	VZ(init)	0.996805	O	B-PP	2	mod
+4	een	een	[een]	LID(onbep,stan,agr)	0.999837	O	B-NP	5	det
+5	studentenhuis	studentenhuis	[studeer][ent][en][huis]	N(soort,ev,basis,onz,stan)	0.986842	O	I-NP	3	obj1
+6	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.709677	O	B-SBAR	5	mod
+7	vrij	vrij	[vrij]	ADJ(vrij,basis,zonder)	0.515152	O	B-ADJP	8	mod
+8	opgeruimd	opruimen	[opge][ruim][d]	WW(vd,vrij,zonder)	0.992157	O	B-VP	9	vc
+9	is	zijn	[zijn]	WW(pv,tgw,ev)	0.999447	O	I-VP	6	body
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	3	det
+2	groot	groot	[groot]	ADJ(prenom,basis,zonder)	0.998987	O	I-NP	3	mod
+3	grasveld	grasveld	[gras][veld]	N(soort,ev,basis,onz,stan)	0.997977	O	I-NP	0	ROOT
+4	met	met	[met]	VZ(init)	0.999761	O	B-PP	3	mod
+5	een	een	[een]	LID(onbep,stan,agr)	0.999789	O	B-NP	7	det
+6	klein	klein	[klein]	ADJ(prenom,basis,zonder)	0.998588	O	I-NP	7	mod
+7	kindje	kind	[kind][je]	N(soort,ev,dim,onz,stan)	0.999323	O	I-NP	4	obj1
+8	dat	dat	[dat]	VNW(betr,pron,stan,vol,3,ev)	1.000000	O	B-SBAR	7	mod
+9	met	met	[met]	VZ(init)	0.999761	O	B-PP	12	ld
+10	een	een	[een]	LID(onbep,stan,agr)	0.999052	O	B-NP	11	det
+11	vlieger	vlieger	[vlieg][er]	N(soort,ev,basis,zijd,stan)	0.998984	O	I-NP	9	obj1
+12	speelt	spelen	[speel][t]	WW(pv,tgw,met-t)	0.998984	O	B-VP	8	body
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	uithangbord	uithangbord	[uit][hang][bord]	N(soort,ev,basis,onz,stan)	0.997959	O	I-NP	0	ROOT
+3	van	van	[van]	VZ(init)	0.999441	O	B-PP	2	mod
+4	een	een	[een]	LID(onbep,stan,agr)	0.995147	O	B-NP	6	det
+5	Aziatisch	aziatisch	[a][ziatisch]	ADJ(prenom,basis,zonder)	0.822222	B-LOC	I-NP	6	mod
+6	restaurant	restaurant	[restaureer][ant]	N(soort,ev,basis,onz,stan)	0.997078	O	I-NP	3	obj1
+7	in	in	[in]	VZ(init)	0.997085	O	B-PP	6	mod
+8	een	een	[een]	LID(onbep,stan,agr)	0.995147	O	B-NP	10	det
+9	drukke	druk	[druk][e]	ADJ(prenom,basis,met-e,stan)	0.999828	O	I-NP	10	mod
+10	straat	straat	[straat]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	7	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	man	man	[man]	N(soort,ev,basis,zijd,stan)	0.995858	O	I-NP	0	ROOT
+3	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.750000	O	B-SBAR	2	mod
+4	donuts	donut	[donuts]	N(soort,mv,basis)	0.998832	O	B-NP	5	obj1
+5	uitzoekt	uitzoeken	[uit][zoek][t]	WW(pv,tgw,met-t)	0.998378	O	B-VP	3	body
+6	in	in	[in]	VZ(init)	0.999350	O	B-PP	5	mod
+7	de	de	[de]	LID(bep,stan,rest)	0.999964	O	B-NP	8	det
+8	winkel	winkel	[winkel]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	6	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	weg	weg	[weg]	N(soort,ev,basis,zijd,stan)	1.000000	O	I-NP	0	ROOT
+3	met	met	[met]	VZ(init)	0.990826	O	B-PP	2	mod
+4	groot	groot	[groot]	ADJ(prenom,basis,zonder)	1.000000	O	B-NP	5	cnj
+5	en	en	[en]	VG(neven)	0.997984	O	I-NP	7	mod
+6	klein	klein	[klein]	ADJ(prenom,basis,zonder)	0.995025	O	I-NP	5	cnj
+7	verkeer	verkeer	[ver][keer]	N(soort,ev,basis,onz,stan)	0.996824	O	I-NP	3	obj1
+8	(	(	[(]	LET()	1.000000	O	O	7	punct
+9	bussen	bus	[bus][en]	N(soort,mv,basis)	0.997993	O	B-NP	10	cnj
+10	en	en	[en]	VG(neven)	0.999194	O	B-CONJP	7	mod
+11	fietsers	fietser	[fiets][er][s]	N(soort,mv,basis)	0.996470	O	B-NP	10	cnj
+12	)	)	[)]	LET()	1.000000	O	O	11	punct
+
+1	Vier	vier	[vier]	TW(hoofd,prenom,stan)	0.996795	O	B-NP	2	det
+2	mannen	man	[man][en]	N(soort,mv,basis)	0.999597	O	I-NP	0	ROOT
+3	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.877193	O	B-SBAR	2	mod
+4	samen	samen	[samen]	BW()	0.998251	O	B-ADVP	8	mod
+5	eten	eten	[eten]	N(soort,ev,basis,onz,stan)	0.625000	O	B-VP	8	None
+6	aan_het	aan_het	[aan]_[het]	VZ(init)_LID(bep,stan,evon)	0.980840	O_O	B-PP_I-PP	8	vc
+7	klaarmaken	klaarmaken	[klaar][maak][en]	WW(inf,nom,zonder,zonder-n)	1.000000	O	B-VP	6	body
+8	zijn	zijn	[zijn]	WW(inf,vrij,zonder)	1.000000	O	B-VP	3	body
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	vrouw	vrouw	[vrouw]	N(soort,ev,basis,zijd,stan)	0.997481	O	I-NP	0	ROOT
+3	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.780446	O	B-SBAR	2	mod
+4	op	op	[op]	VZ(init)	0.996560	O	B-PP	7	None
+5	een	een	[een]	LID(onbep,stan,agr)	0.998058	O	B-NP	6	det
+6	kruispunt	kruispunt	[kruis][punt]	N(soort,ev,basis,onz,stan)	0.997132	O	I-NP	4	obj1
+7	wil	willen	[wil]	WW(pv,tgw,ev)	0.985385	O	B-VP	3	body
+8	oversteken	oversteken	[oversteken]	WW(inf,vrij,zonder)	0.862069	O	I-VP	7	vc
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	spoorwegovergang	spoorwegovergang	[spoor][weg][overgang]	N(soort,ev,basis,zijd,stan)	0.998581	O	I-NP	0	ROOT
+3	waar	waar	[waar]	VNW(vb,adv-pron,obl,vol,3o,getal)	0.921847	O	B-SBAR	2	mod
+4	bijna	bijna	[bijna]	BW()	0.999753	O	B-NP	7	mod
+5	een	een	[een]	LID(onbep,stan,agr)	0.999734	O	I-NP	6	det
+6	trein	trein	[trein]	N(soort,ev,basis,zijd,stan)	0.999042	O	I-NP	7	su
+7	komt	komen	[kom][t]	WW(pv,tgw,met-t)	0.999250	O	B-VP	3	body
+8	(	(	[(]	LET()	1.000000	O	O	7	punct
+9	de	de	[de]	LID(bep,stan,rest)	0.999852	O	B-NP	10	det
+10	slagbomen	slagboom	[slag][boom][en]	N(soort,mv,basis)	0.999779	O	I-NP	11	su
+11	zijn	zijn	[zijn]	WW(pv,tgw,mv)	0.947740	O	B-VP	0	ROOT
+12	dicht	dicht	[dicht]	ADJ(vrij,basis,zonder)	0.993503	O	B-ADJP	11	predc
+13	)	)	[)]	LET()	1.000000	O	O	12	punct
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	English	English	[English]	SPEC(vreemd)	1.000000	B-LOC	I-NP	3	mod
+3	breakfast	breakfast	[breakfast]	SPEC(vreemd)	1.000000	O	I-NP	0	ROOT
+4	van	van	[van]	VZ(init)	0.959310	O	B-PP	3	mod
+5	iemand	iemand	[iemand]	VNW(onbep,pron,stan,vol,3p,ev)	0.999233	O	B-NP	9	su
+6	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.922837	O	B-SBAR	5	mod
+7	de	de	[de]	LID(bep,stan,rest)	0.999665	O	B-NP	8	det
+8	krant	krant	[krant]	N(soort,ev,basis,zijd,stan)	0.998984	O	I-NP	9	obj1
+9	leest	lezen	[lees][t]	WW(pv,tgw,met-t)	0.998984	O	B-VP	3	app
+
+1	Twee	twee	[twee]	TW(hoofd,prenom,stan)	0.661191	O	B-NP	3	det
+2	oude	oud	[oud][e]	ADJ(prenom,basis,met-e,stan)	0.999807	O	I-NP	3	mod
+3	mensen	mens	[mens][en]	N(soort,mv,basis)	0.999865	O	I-NP	0	ROOT
+4	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.877193	O	B-SBAR	3	mod
+5	samen	samen	[samen]	BW()	0.998251	O	B-ADVP	9	mod
+6	een	een	[een]	LID(onbep,stan,agr)	0.995147	O	B-NP	8	det
+7	witte	wit	[wit][e]	ADJ(prenom,basis,met-e,stan)	0.999828	O	I-NP	8	mod
+8	taart	taart	[taart]	N(soort,ev,basis,zijd,stan)	0.998561	O	I-NP	9	obj1
+9	aansnijden	aansnijden	[aan][snijd][en]	WW(inf,vrij,zonder)	0.975646	O	B-VP	4	body
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	woonkamer	woonkamer	[woon][kamer]	N(soort,ev,basis,zijd,stan)	0.998581	O	I-NP	0	ROOT
+3	waar	waar	[waar]	VNW(vb,adv-pron,obl,vol,3o,getal)	0.823774	O	B-SBAR	2	mod
+4	geel	geel	[geel]	ADJ(nom,basis,zonder,zonder-n)	0.842105	O	B-ADJP	8	su
+5	de	de	[de]	LID(bep,stan,rest)	0.999805	O	B-NP	7	det
+6	dominante	dominant	[domineer][ant][e]	ADJ(prenom,basis,met-e,stan)	0.999763	O	I-NP	7	mod
+7	kleur	kleur	[kleur]	N(soort,ev,basis,zijd,stan)	0.998006	O	I-NP	8	None
+8	is	zijn	[zijn]	WW(pv,tgw,ev)	0.999447	O	B-VP	3	body
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	vrouw	vrouw	[vrouw]	N(soort,ev,basis,zijd,stan)	0.997481	O	I-NP	10	su
+3	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.866616	O	B-SBAR	2	mod
+4	een	een	[een]	LID(onbep,stan,agr)	0.995147	O	B-NP	6	det
+5	flinke	flink	[flink][e]	ADJ(prenom,basis,met-e,stan)	0.999828	O	I-NP	6	mod
+6	hap	hap	[hap]	N(soort,ev,basis,zijd,stan)	0.998945	O	I-NP	10	predc
+7	in	in	[in]	VZ(init)	0.996805	O	B-PP	6	mod
+8	een	een	[een]	LID(onbep,stan,agr)	0.999573	O	B-NP	9	det
+9	broodje	brood	[brood][je]	N(soort,ev,dim,onz,stan)	0.999323	O	I-NP	7	obj1
+10	zet	zetten	[zet]	WW(pv,tgw,ev)	0.992966	O	B-VP	0	ROOT
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	sleeplift	sleeplift	[sleep][lift]	N(soort,ev,basis,zijd,stan)	0.998636	O	I-NP	0	ROOT
+3	in	in	[in]	VZ(init)	0.996805	O	B-PP	2	mod
+4	een	een	[een]	LID(onbep,stan,agr)	0.999837	O	B-NP	5	det
+5	skigebied	skigebied	[ski][gebied]	N(soort,ev,basis,onz,stan)	0.997977	O	I-NP	3	obj1
+6	met	met	[met]	VZ(init)	0.999761	O	B-PP	5	mod
+7	een	een	[een]	LID(onbep,stan,agr)	0.999573	O	B-NP	8	det
+8	klasje	klas	[klas][je]	N(soort,ev,dim,onz,stan)	0.994505	O	I-NP	6	obj1
+9	kinderen	kind	[kind][en]	N(soort,mv,basis)	0.997633	O	I-NP	8	mod
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	3	det
+2	drukke	druk	[druk][e]	ADJ(prenom,basis,met-e,stan)	0.990169	O	I-NP	3	mod
+3	weg	weg	[weg]	N(soort,ev,basis,zijd,stan)	0.833333	O	I-NP	0	ROOT
+4	in	in	[in]	VZ(init)	0.999571	O	B-PP	3	mod
+5	de	de	[de]	LID(bep,stan,rest)	0.999643	O	B-NP	6	det
+6	stad	stad	[stad]	N(soort,ev,basis,zijd,stan)	0.998012	O	I-NP	4	obj1
+7	,	,	[,]	LET()	1.000000	O	O	6	punct
+8	in	in	[in]	VZ(init)	0.999350	O	B-PP	6	mod
+9	de	de	[de]	LID(bep,stan,rest)	0.999964	O	B-NP	10	det
+10	avond	avond	[avond]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	8	obj1
+
+1	Het	het	[het]	LID(bep,stan,evon)	0.999233	O	B-NP	2	det
+2	kruispunt	kruispunt	[kruis][punt]	N(soort,ev,basis,onz,stan)	0.998155	O	I-NP	0	ROOT
+3	tussen	tussen	[tussen]	VZ(init)	0.928887	O	B-PP	2	mod
+4	Bridge	Bridge	[Bridge]	SPEC(vreemd)	1.000000	B-LOC	B-NP	3	obj1
+5	st.	st.	[st.]	SPEC(afk)	1.000000	O	I-NP	6	cnj
+6	en	en	[en]	VG(neven)	0.995348	O	B-CONJP	3	obj1
+7	Fulton_Mall	Fulton_Mall	[Fulton]_[Mall]	SPEC(deeleigen)_SPEC(deeleigen)	1.000000	B-LOC_I-LOC	B-NP_I-NP	6	cnj
+8	met	met	[met]	VZ(init)	0.999480	O	B-PP	7	mod
+9	overstekende	oversteken	[over][steek][end][e]	WW(od,prenom,met-e)	0.960000	O	B-NP	10	mod
+10	mensen	mens	[mens][en]	N(soort,mv,basis)	0.999865	O	I-NP	8	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	bureau	bureau	[bureau]	N(soort,ev,basis,onz,stan)	0.997977	O	I-NP	0	ROOT
+3	met	met	[met]	VZ(init)	0.999728	O	B-PP	2	mod
+4	laptop	laptop	[laptop]	N(soort,ev,basis,zijd,stan)	0.999176	O	B-NP	5	cnj
+5	en	en	[en]	VG(neven)	0.999194	O	B-CONJP	3	obj1
+6	een	een	[een]	LID(onbep,stan,agr)	0.999607	O	B-NP	8	det
+7	extra	extra	[extra]	ADJ(prenom,basis,zonder)	0.997533	O	I-NP	8	mod
+8	beeldscherm	beeldscherm	[beeld][scherm]	N(soort,ev,basis,onz,stan)	0.996804	O	I-NP	5	cnj
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	3	det
+2	grote	groot	[groot][e]	ADJ(prenom,basis,met-e,stan)	0.990145	O	I-NP	3	mod
+3	groep	groep	[groep]	N(soort,ev,basis,zijd,stan)	0.997481	O	I-NP	0	ROOT
+4	mensen	mens	[mens][en]	N(soort,mv,basis)	0.999402	O	B-NP	3	mod
+5	aan	aan	[aan]	VZ(init)	0.966667	O	B-PP	4	mod
+6	tafel	tafel	[tafel]	N(soort,ev,basis,zijd,stan)	0.998384	O	B-NP	5	obj1
+7	in	in	[in]	VZ(init)	0.996805	O	B-PP	4	mod
+8	een	een	[een]	LID(onbep,stan,agr)	0.999837	O	B-NP	9	det
+9	restaurant	restaurant	[restaureer][ant]	N(soort,ev,basis,onz,stan)	0.996804	O	I-NP	7	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	TV	tv	[tv]	N(soort,ev,basis,zijd,stan)	0.950000	B-MISC	I-NP	0	ROOT
+3	waar	waar	[waar]	VNW(vb,adv-pron,obl,vol,3o,getal)	0.963470	O	B-SBAR	2	mod
+4	een	een	[een]	LID(onbep,stan,agr)	0.999560	O	B-NP	5	det
+5	film	film	[film]	N(soort,ev,basis,zijd,stan)	0.998306	O	I-NP	0	ROOT
+6	op	op	[op]	VZ(fin)	0.894737	O	B-ADJP	0	ROOT
+7	staat	staat	[staat]	N(soort,ev,basis,zijd,stan)	0.500000	O	I-ADJP	6	obj1
+8	in	in	[in]	VZ(init)	0.996805	O	B-PP	7	mod
+9	een	een	[een]	LID(onbep,stan,agr)	0.995147	O	B-NP	11	det
+10	rommelige	rommelig	[rommel][ig][e]	ADJ(prenom,basis,met-e,stan)	0.999828	O	I-NP	11	mod
+11	woonkamer	woonkamer	[woon][kamer]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	8	obj1
+
+1	Twee	twee	[twee]	TW(hoofd,prenom,stan)	0.661191	O	B-NP	2	det
+2	mannen	man	[man][en]	N(soort,mv,basis)	0.999597	O	I-NP	0	ROOT
+3	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.866616	O	B-SBAR	2	mod
+4	een	een	[een]	LID(onbep,stan,agr)	0.999907	O	B-NP	5	det
+5	spelletje	spel	[spel][etje]	N(soort,ev,dim,onz,stan)	0.999323	O	I-NP	9	mod
+6	op	op	[op]	VZ(init)	0.997760	O	B-PP	5	mod
+7	de	de	[de]	LID(bep,stan,rest)	0.981886	O	B-NP	8	det
+8	WII	WII	[WII]	SPEC(deeleigen)	1.000000	B-ORG	I-NP	6	obj1
+9	spelen	spelen	[speel][en]	WW(inf,vrij,zonder)	0.670968	O	B-VP	3	body
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	3	det
+2	zonnige	zonnig	[zon][ig][e]	ADJ(prenom,basis,met-e,stan)	0.999837	O	I-NP	3	mod
+3	tuin	tuin	[tuin]	N(soort,ev,basis,zijd,stan)	0.998454	O	I-NP	0	ROOT
+4	met	met	[met]	VZ(init)	0.999480	O	B-PP	3	mod
+5	twee	twee	[twee]	TW(hoofd,prenom,stan)	0.995556	O	B-NP	6	det
+6	stoelen	stoel	[stoel][en]	N(soort,mv,basis)	0.998435	O	I-NP	4	obj1
+7	in_het_midden	in_het_midden	[in]_[het]_[midden]	VZ(init)_LID(bep,stan,evon)_N(soort,ev,basis,onz,stan)	0.623966	O_O_O	B-PP_B-NP_I-NP	0	ROOT
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	vrouw	vrouw	[vrouw]	N(soort,ev,basis,zijd,stan)	0.997481	O	I-NP	6	su
+3	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.866616	O	B-SBAR	2	mod
+4	een	een	[een]	LID(onbep,stan,agr)	0.995147	O	B-NP	5	det
+5	ijskoffie	ijskoffie	[ijs][koffie]	N(soort,ev,basis,zijd,stan)	1.000000	O	I-NP	6	obj1
+6	drinkt	drinken	[drink][t]	WW(pv,tgw,met-t)	0.997636	O	B-VP	7	cnj
+7	en	en	[en]	VG(neven)	0.999194	O	B-CONJP	0	ROOT
+8	een	een	[een]	LID(onbep,stan,agr)	0.999560	O	B-NP	9	det
+9	donut	donut	[donut]	N(soort,ev,basis,zijd,stan)	0.998836	O	I-NP	10	su
+10	gaat	gaan	[ga][t]	WW(pv,tgw,met-t)	0.999736	O	B-VP	7	cnj
+11	eten	eten	[eet][en]	WW(inf,vrij,zonder)	0.576486	O	I-VP	10	vc
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	4	det
+2	vrij	vrij	[vrij]	BW()	0.972603	O	I-NP	3	mod
+3	lege	leeg	[leeg][e]	ADJ(prenom,basis,met-e,stan)	0.999763	O	I-NP	4	mod
+4	kamer	kamer	[kamer]	N(soort,ev,basis,zijd,stan)	0.998454	O	I-NP	8	cnj
+5	met	met	[met]	VZ(init)	0.999761	O	B-PP	4	mod
+6	een	een	[een]	LID(onbep,stan,agr)	0.999052	O	B-NP	7	det
+7	kat	kat	[kat]	N(soort,ev,basis,zijd,stan)	0.998248	O	I-NP	5	obj1
+8	en	en	[en]	VG(neven)	0.999194	O	B-CONJP	0	ROOT
+9	spullen	spul	[spul][en]	N(soort,mv,basis)	0.997992	O	B-NP	8	cnj
+10	tegen_de	tegen_de	[tegen]_[de]	VZ(init)_LID(bep,stan,rest)	0.997547	O_O	B-PP_B-NP	0	ROOT
+11	muur	muur	[muur]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	0	ROOT
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	4	det
+2	hele	heel	[heel][e]	ADJ(prenom,basis,met-e,stan)	0.990768	O	I-NP	4	mod
+3	roze	roos	[roze]	ADJ(prenom,basis,zonder)	0.978261	O	I-NP	4	mod
+4	kamer	kamer	[kamer]	N(soort,ev,basis,zijd,stan)	0.999295	O	I-NP	0	ROOT
+5	met	met	[met]	VZ(init)	0.999761	O	B-PP	4	mod
+6	een	een	[een]	LID(onbep,stan,agr)	0.999573	O	B-NP	7	det
+7	man	man	[man]	N(soort,ev,basis,zijd,stan)	0.995858	O	I-NP	5	obj1
+8	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.969697	O	B-SBAR	7	mod
+9	de	de	[de]	LID(bep,stan,rest)	0.997275	O	B-NP	10	det
+10	wacht	wacht	[wacht]	N(soort,ev,basis,zijd,stan)	0.666667	O	I-NP	11	obj1
+11	houdt	houden	[houd][t]	WW(pv,tgw,met-t)	0.998984	O	B-VP	8	body
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	groep	groep	[groep]	N(soort,ev,basis,zijd,stan)	0.997481	O	I-NP	0	ROOT
+3	mannen	man	[man][en]	N(soort,mv,basis)	0.995554	O	B-NP	2	mod
+4	aan	aan	[aan]	VZ(init)	0.958333	O	B-PP	3	mod
+5	tafel	tafel	[tafel]	N(soort,ev,basis,zijd,stan)	0.996633	O	B-NP	4	obj1
+6	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.981651	O	B-SBAR	5	mod
+7	met	met	[met]	VZ(init)	0.999480	O	B-PP	11	mod
+8	elkaar	elkaar	[elkaar]	VNW(recip,pron,obl,vol,persoon,mv)	0.999786	O	B-NP	7	obj1
+9	aan_het	aan_het	[aan]_[het]	VZ(init)_LID(bep,stan,evon)	0.699641	O_O	B-PP_B-NP	11	vc
+10	eten	eten	[eten]	N(soort,ev,basis,onz,stan)	0.750000	O	I-NP	11	su
+11	is	zijn	[zijn]	WW(pv,tgw,ev)	0.999447	O	B-VP	6	body
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	3	det
+2	donkere	donker	[donker][e]	ADJ(prenom,basis,met-e,stan)	0.999837	O	I-NP	3	mod
+3	werkplek	werkplek	[werk][plek]	N(soort,ev,basis,zijd,stan)	0.998454	O	I-NP	7	cnj
+4	met	met	[met]	VZ(init)	0.999480	O	B-PP	3	mod
+5	veel	veel	[veel]	VNW(onbep,grad,stan,prenom,zonder,agr,basis)	0.979021	O	B-NP	6	det
+6	boeken	boek	[boek][en]	N(soort,mv,basis)	0.736762	O	I-NP	4	obj1
+7	en	en	[en]	VG(neven)	0.999194	O	B-CONJP	0	ROOT
+8	een	een	[een]	LID(onbep,stan,agr)	0.999560	O	B-NP	9	det
+9	computer	computer	[computer]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	7	cnj
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	kar	kar	[kar]	N(soort,ev,basis,zijd,stan)	0.999061	O	I-NP	0	ROOT
+3	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.972973	O	B-SBAR	2	mod
+4	wordt	worden	[word][t]	WW(pv,tgw,met-t)	0.999697	O	B-VP	3	body
+5	getrokken	trekken	[ge][trek][en]	WW(vd,vrij,zonder)	0.997543	O	I-VP	4	vc
+6	door	door	[door]	VZ(init)	0.996204	O	B-PP	5	pc
+7	een	een	[een]	LID(onbep,stan,agr)	0.999038	O	B-NP	8	det
+8	ezel	ezel	[ezel]	N(soort,ev,basis,zijd,stan)	0.998566	O	I-NP	6	obj1
+9	in	in	[in]	VZ(init)	0.996805	O	B-PP	8	mod
+10	een	een	[een]	LID(onbep,stan,agr)	0.995147	O	B-NP	12	det
+11	drukke	druk	[druk][e]	ADJ(prenom,basis,met-e,stan)	0.999828	O	I-NP	12	mod
+12	straat	straat	[straat]	N(soort,ev,basis,zijd,stan)	0.997691	O	I-NP	9	obj1
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	keeper	keeper	[keeper]	N(soort,ev,basis,zijd,stan)	0.999316	O	I-NP	0	ROOT
+3	van	van	[van]	VZ(init)	0.999667	O	B-PP	2	mod
+4	een	een	[een]	LID(onbep,stan,agr)	0.999837	O	B-NP	5	det
+5	voetbalteam	voetbalteam	[voet][bal][team]	N(soort,ev,basis,onz,stan)	0.997509	O	I-NP	3	obj1
+6	dat	dat	[dat]	VNW(betr,pron,stan,vol,3,ev)	0.969697	O	B-SBAR	5	mod
+7	aan_het	aan_het	[aan]_[het]	VZ(init)_LID(bep,stan,evon)	0.699641	O_O	B-PP_B-NP	9	vc
+8	warmspelen	warmspelen	[warm][spel][en]	N(soort,ev,basis,onz,stan)	0.557691	O	I-NP	9	su
+9	is	zijn	[zijn]	WW(pv,tgw,ev)	0.999447	O	B-VP	6	body
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	tray	tray	[tray]	N(soort,ev,basis,zijd,stan)	0.981818	O	I-NP	0	ROOT
+3	avondeten	avondeten	[avond][eten]	N(soort,ev,basis,onz,stan)	0.857143	O	I-NP	2	mod
+4	dat	dat	[dat]	VNW(betr,pron,stan,vol,3,ev)	0.894737	O	B-SBAR	3	mod
+5	voor	voor	[voor]	VZ(init)	0.997829	O	B-PP	0	ROOT
+6	een	een	[een]	LID(onbep,stan,agr)	0.999100	O	B-NP	7	det
+7	laptop	laptop	[laptop]	N(soort,ev,basis,zijd,stan)	0.998794	O	I-NP	5	obj1
+8	staat	staat	[staat]	N(soort,ev,basis,zijd,stan)	1.000000	O	B-NP	0	ROOT
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	2	det
+2	weg	weg	[weg]	N(soort,ev,basis,zijd,stan)	1.000000	O	I-NP	10	su
+3	met	met	[met]	VZ(init)	0.999480	O	B-PP	2	mod
+4	geparkeerde	parkeren	[ge][park][eer][de]	WW(vd,prenom,met-e)	0.995074	O	B-NP	5	mod
+5	auto's	auto	[auto][s]	N(soort,mv,basis)	0.997993	O	I-NP	6	cnj
+6	en	en	[en]	VG(neven)	0.999194	O	B-CONJP	3	obj1
+7	een	een	[een]	LID(onbep,stan,agr)	0.999560	O	B-NP	8	det
+8	bus	bus	[bus]	N(soort,ev,basis,zijd,stan)	0.999061	O	I-NP	6	cnj
+9	die	die	[die]	VNW(aanw,det,stan,prenom,zonder,rest)	0.397185	O	B-NP	10	None
+10	langsrijdt	langsrijden	[langs][rijd][t]	WW(pv,tgw,met-t)	0.385723	O	B-VP	0	ROOT
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	3	det
+2	blije	blij	[blij][e]	ADJ(prenom,basis,met-e,stan)	0.998498	O	B-NP	3	mod
+3	man	man	[man]	N(soort,ev,basis,zijd,stan)	0.995858	O	I-NP	0	ROOT
+4	in	in	[in]	VZ(init)	0.999571	O	B-PP	3	mod
+5	de	de	[de]	LID(bep,stan,rest)	0.999964	O	B-NP	6	det
+6	keuken	keuken	[keuken]	N(soort,ev,basis,zijd,stan)	0.999061	O	I-NP	4	obj1
+7	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.658537	O	B-SBAR	6	mod
+8	zijn	zijn	[zijn]	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	1.000000	O	B-NP	9	det
+9	eten	eten	[eet][en]	WW(inf,vrij,zonder)	0.576486	O	I-NP	7	body
+10	laat	laat	[laat]	ADJ(vrij,basis,zonder)	0.729730	O	B-ADVP	11	mod
+11	zijn	zijn	[zijn]	WW(inf,vrij,zonder)	1.000000	O	B-VP	7	body
+
+1	Een	een	[een]	LID(onbep,stan,agr)	0.981771	O	B-NP	3	det
+2	ronde	rond	[rond][e]	ADJ(prenom,basis,met-e,stan)	0.777778	O	I-NP	3	mod
+3	tafel	tafel	[tafel]	N(soort,ev,basis,zijd,stan)	0.998454	O	I-NP	0	ROOT
+4	met	met	[met]	VZ(init)	0.999688	O	B-PP	3	mod
+5	vrouwen	vrouw	[vrouw][en]	N(soort,mv,basis)	0.998382	O	B-NP	4	obj1
+6	die	die	[die]	VNW(betr,pron,stan,vol,persoon,getal)	0.825000	O	B-SBAR	5	mod
+7	wijn	wijn	[wijn]	N(soort,ev,basis,zijd,stan)	0.998429	O	B-NP	8	obj1
+8	drinken	drinken	[drink][en]	WW(inf,vrij,zonder)	0.925000	O	B-VP	6	body
+
